@@ -9,7 +9,7 @@ function printNome(nome) {
 const nums = [1, 2, 3, 4, 5];
 
 function multiplyByTen(num) {
-  return num * 10;
+  return num * 100;
 }
 
 const numsMultiplied = nums.map(multiplyByTen);

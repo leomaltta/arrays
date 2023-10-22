@@ -18,7 +18,7 @@ console.log(notas7);
 
 //Método find
 
-const notas8 = [10, 6, 8, 5.5, 15, 16, 17, 18, 19, 20];
+const notas8 = [10, 6, 8, 5.5, 15, 16, 17, 18, 19, 20, 21];
 
 const notas9 = notas8.find((nota) => nota > 15);
 console.log(notas9);

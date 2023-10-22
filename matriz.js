@@ -13,7 +13,7 @@ console.log(
 //Método includes()
 
 const alunosI = ["João", "Juliana", "Ana", "Caio"];
-const mediasI = [10, 8, 7.5, 9];
+const mediasI = [10, 8, 7.5, 9, 10];
 
 const listaDeAlunosEMedias = [alunosI, mediasI];
 

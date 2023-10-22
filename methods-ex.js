@@ -28,6 +28,7 @@ const alunos = [
   "Marjorie",
   "Guilherme",
   "Aline",
+  "Mariana",
   "Fabiana",
   "Andre",
   "Carlos",

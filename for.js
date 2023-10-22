@@ -54,7 +54,7 @@ console.log(média);
 
 // ! forEach
 
-const notasFE = [10, 6.5, 8, 7.5];
+const notasFE = [10, 6.5, 8, 7.5, 6];
 
 let sumFE = 0;
 

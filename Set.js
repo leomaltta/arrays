@@ -1,4 +1,4 @@
-const nomes = ["Ana", "Clara", "Maria", "Maria", "João", "João", "João"];
+const nomes = ["Ana", "Clara", "Maria", "Maria", "João", "João", "João", "Marina"];
 
 const nomesAtualizados = [...new Set(nomes)];
 

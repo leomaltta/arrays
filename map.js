@@ -6,8 +6,9 @@ const notasAtualizadas = notas.map((nota) => {
 
 console.log(notasAtualizadas);
 
-const nomes = ["ana Julia", "Caio vinicius", "BIA silva"];
+const nomes = ["ana Julia", "Caio Vinicius", "BIA silva"];
 
 const nomePadronizados = nomes.map((nome) => nome.toUpperCase());
 
 console.log(nomePadronizados)
+console.log(nomes)

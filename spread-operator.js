@@ -6,3 +6,4 @@ novasNotas.push(10);
 
 console.log(notas);
 console.log(novasNotas);
+console.log(notas[2])
